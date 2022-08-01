@@ -1,0 +1,25 @@
+[OK]- se deletar uma marca tem q deletar todos os vaículos daquela marca
+	(deletou uma marca, vai na tabela veículo remover as marcas)
+
+[]- se deletar um modelo tem q deletar todos os vaículos daquele modelo
+	(deletou um modelo, vai na tabela veículo remover os modelos)
+
+
+[]- Crie um trigger em que, após uma venda, seja adicionado uma comissão de 10% ao
+	vendedor sobre a venda.
+
+
+[]- calcular comissão de 10%
+	1º pegar o valor do carro
+
+[]- 
+
+[]- 
+
+[]- 
+
+[]- 
+
+[]- 
+
+[]- 
